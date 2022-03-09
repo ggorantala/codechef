@@ -7,6 +7,7 @@ class CoinFlipElephant {
     int t = input.nextInt();
     while (t-- > 0) {
       int G = input.nextInt();
+      
       while (G-- > 0) {
         int I = input.nextInt();
         int N = input.nextInt();
